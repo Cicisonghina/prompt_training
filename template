@@ -1,0 +1,122 @@
+---
+# **Titre du Prompt**
+*Date : YYYY-MM-JJ*
+*Type : [Créatif/Technique/Reformulation/Informatif/Autre]*
+*Contexte : [Brève description du besoin ou de l’objectif]*
+---
+
+## **1. Prompt Original**
+```plaintext
+[Coller ici le prompt exact que tu as utilisé, entre guillemets si nécessaire.]
+```
+
+---
+## **2. Paramètres (Optionnel)**
+- **Modèle utilisé** : [ex : Mistral, GPT-4, Claude, etc.]
+- **Température** : [ex : 0.7]
+- **Longueur max** : [ex : 200 tokens]
+- **Autres réglages** : [ex : "top_p": 0.9, présence de pénalités, etc.]
+
+---
+## **3. Résultat Obtenu**
+```plaintext
+[Coller ici la réponse brute du modèle.]
+```
+
+---
+## **4. Analyse et Commentaires**
+### **Points positifs** :
+- [Exemple : "Le modèle a bien capté la métaphore demandée."]
+- [Exemple : "La structure est claire et adaptée au public cible."]
+
+### **Points à améliorer** :
+- [Exemple : "Le résultat est trop long, il faudrait ajouter une contrainte de taille."]
+- [Exemple : "Le ton n’est pas assez formel pour le contexte."]
+
+### **Modifications testées** :
+- **Version 2** :
+  ```plaintext
+  [Nouveau prompt testé pour améliorer le résultat.]
+  ```
+  **Résultat** :
+  ```plaintext
+  [Réponse du modèle après modification.]
+  ```
+
+---
+## **5. Leçons Apprises**
+- [Exemple : "Les contraintes de format (ex : 'en 3 phrases') améliorent la précision."]
+- [Exemple : "Pour un public technique, il faut éviter les métaphores trop abstraites."]
+
+---
+## **6. Idées pour Réutilisation**
+- [Exemple : "Ce prompt pourrait être adapté pour générer des slogans publicitaires."]
+- [Exemple : "À tester avec un autre modèle pour comparer les résultats."]
+
+---
+## **7. Liens et Ressources Associés**
+- [Lien vers un article ou une doc inspirante]
+- [Lien vers un projet connexe dans ce repo]
+
+---
+*© [Ton Nom] – [Années] – [Licence si applicable]*
+
+---
+
+# **Exemple Rempli**
+
+---
+# **Métaphore Culinaire pour la Blockchain**
+*Date : 2025-09-04*
+*Type : Créatif*
+*Contexte : Expliquer la blockchain à un public non technique, en utilisant une analogie culinaire.*
+---
+
+## **1. Prompt Original**
+```plaintext
+"Explique-moi le fonctionnement de la blockchain comme si j'étais un chef cuisinier dans un restaurant étoilé. Utilise une métaphore avec une recette de soupe, en insistant sur la transparence et la sécurité des ingrédients. Limite-toi à 5 phrases."
+```
+
+---
+## **2. Paramètres**
+- **Modèle utilisé** : Mistral AI
+- **Température** : 0.8
+
+---
+## **3. Résultat Obtenu**
+```plaintext
+"Imagine que ta soupe est une recette secrète, mais que chaque ingrédient (carottes, oignons, bouillon) est vérifié et noté par tous les cuisiniers du restaurant avant d’être ajouté au pot. Personne ne peut tricher en ajoutant un ingrédient périmé, car tout le monde a une copie de la recette et des notes. Si un cuisinier essaie de modifier la recette, les autres le voient immédiatement et refusent la modification. Ainsi, ta soupe reste toujours parfaite et digne de confiance, comme un registre infalsifiable."
+```
+
+---
+## **4. Analyse et Commentaires**
+### **Points positifs** :
+- La métaphore est claire et adaptée au public cible.
+- L’aspect "transparence" et "sécurité" est bien mis en avant.
+
+### **Points à améliorer** :
+- Le résultat dépasse légèrement les 5 phrases demandées.
+- La métaphore pourrait être encore plus visuelle (ex : "chaque ingrédient a un code-barres unique").
+
+### **Modifications testées** :
+- **Version 2** :
+  ```plaintext
+  "Réécris la métaphore précédente en 5 phrases MAX, et ajoute une comparaison visuelle avec des étiquettes sur les ingrédients."
+  ```
+
+---
+## **5. Leçons Apprises**
+- Les contraintes de taille ("5 phrases") doivent être strictes pour éviter les digressions.
+- Les métaphores visuelles renforcent la compréhension.
+
+---
+## **6. Idées pour Réutilisation**
+- Adapter ce prompt pour expliquer d’autres concepts tech (ex : le cloud computing).
+- Tester avec d’autres métiers (ex : "comme si j’étais un architecte").
+
+---
+## **7. Liens et Ressources Associés**
+- [Lien vers un article sur les métaphores en pédagogie]
+- [Lien vers le projet 'Explications Techniques' dans ce repo]
+
+---
