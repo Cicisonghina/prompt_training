@@ -1,7 +1,7 @@
 ---
 # **Mort de Giorgio Armani**
 *Date : 2025-09-04*
-*Type : [Reformulation/Informatif]*
+*Type : Reformulation/Informatif*
 *Contexte : Synthétiser et expliquer qui était Giorgio Armani grace à plusieurs articles parlant de sa mort*
 ---
 
