@@ -1,136 +1,95 @@
-Parfait, Cecilia ! On va rédiger ton **Article 0** pour Medium, avec un style **littéraire, tech, et immersif**, tout en gardant une structure fluide et engageante. Voici une proposition complète, prête à être publiée ou adaptée selon tes envies.
+1. Scène d’ouverture : La nuit où tout a basculé
+Il était 3h17. Pas de babyphone — notre appartement est trop petit pour ça, et de toute façon, les murs ne m’auraient pas protégée des cris. Mon fils aîné, 27 mois, dormait enfin, mais le bébé venait de se réveiller en sursaut, comme un processus qui plante sans raison. Je me suis levée en silence, les pieds nus sur le carrelage froid, le cœur déjà lourd. Pas de colère, pas de "Tu as gagné cette manche, petit monstre". Juste une fatigue sourde, et cette pensée : "Et si je n’y arrivais pas ? Et si, cette fois, je n’avais plus la force ?"
+Dans la chambre, il était debout dans son lit, les joues rouges, les yeux brillants de larmes ou de surprise — je n’arrivais pas à trancher. Je l’ai pris dans mes bras, et j’ai commencé à chanter, d’une voix tremblante :
+"Dors, petit bug, dors…"
+Une comptine improvisée, entre supplique et blague interne. Parce que si je ne riais pas de cette situation, je pleurerais. Et ce soir-là, j’avais déjà assez pleuré.
+C’est là, en berçant mon fils contre moi, que j’ai eu une révélation : ce chaos, ces nuits, ces doutes… c’était aussi une forme de compétence. Une compétence que je pourrais un jour réinvestir dans ma carrière. Et si j’écrivais là-dessus ?
 
----
+2. Pourquoi cette série ? (Ou : comment transformer l’attente en opportunité)
+Je m’appelle Cecilia. Avant, j’étais Project Manager dans la tech. Aujourd’hui, je suis à la maison avec mes deux garçons — un bébé de 9 mois qui explore le monde à coups de cris et de sourires, et un toddler de 27 mois dont le mot préféré, "NON", résonne comme un 404 Not Found dans ma tête. J’ai fait le choix de mettre ma carrière entre parenthèses pour quelques temps, mais pas mes ambitions. Cette série, "Project Manager & Maman", est née de trois besoins :
 
-### **Titre :**
-**"Project Manager & Maman : Pourquoi j’écris sur la parentalité comme un sprint Agile (et comment j’ai remplacé le café par du thé froid)"**
 
-### **Sous-titre :**
-*"Quand mon bébé de 9 mois a commencé à hurler à 3h du mat’ comme un serveur en crash, j’ai réalisé une chose : mon quotidien de maman était le meilleur (et le pire) terrain d’entraînement pour devenir une meilleure Product Owner. Bienvenue dans ma série où je mélange récits parentaux, métaphores tech, et humour noir pour survivre au chaos."*
+Retrouver ma place dans la tech :
 
----
+Mon "produit" actuel, c’est ma famille. Mes users (mes enfants) ont des besoins imprévisibles, des feedback loops inexistants (ou incompréhensibles), et des sprints qui durent 24h/24. Si je peux gérer ça, je peux gérer n’importe quel backlog. Un jour.
+Exemple : *"Mon backlog actuel :
 
-### **Article :**
+[Épic] ‘Trouver un équilibre entre maternité et projets pro’ (status: In Progress).
+[User Story] ‘En tant que maman, je veux que mon toddler mange ses légumes pour éviter les crises’ (priority: High, status: Blocked).
+[Bug] ‘Le bébé se réveille toutes les nuits’ (severity: Critical, status: Open since forever)."*
 
----
 
-#### **1. Scène d’ouverture : Le réveil en surchauffe**
-Il était 3h17. Le babyphone crépitait comme un terminal Linux recevant des logs d’erreur en temps réel, et moi, j’étais là, les yeux mi-clos, à me demander si le cri strident qui venait de percer la nuit était :
-- a) Une fausse alerte (mon bébé teste simplement sa nouvelle gamme vocale, comme un dev qui push du code en prod sans prévenir).
-- b) Un vrai bug critique (faim, couche, cauchemar — l’équivalent d’un *segfault* dans mon système nerveux).
-- c) Le début d’une **régression de sommeil** (un *rollback* non documenté, où toutes les nuits paisibles des trois derniers mois viennent de partir en fumée).
 
-Je me suis extraite du lit avec la grâce d’un *container* qui redémarre en urgence, les pieds nus sur le parquet froid. Dans la chambre de mon bébé, l’air sentait le lait caillé et la résignation. Elle était debout dans son lit, les joues rouges comme des *error logs*, les yeux brillants de larmes — ou de triomphe, je n’étais pas sûre. *"Tu as gagné cette manche, petit monstre"*, ai-je pensé en la soulevant, tout en me disant que si mon travail consistait à gérer des incidents de production, ma vie de maman était un vrai **on-call hell**.
 
-C’est à ce moment-là, alors que je berçais ma fille en chantonnant une comptine que j’avais inventée (*"Dors, petit bug, dors…"*), que j’ai eu une révélation : **mon quotidien de maman était le projet le plus complexe que j’aie jamais géré**. Et si j’écrivais là-dessus ?
 
----
+Dédramatiser mon quotidien :
 
-#### **2. Pourquoi cette série ? (Ou : comment j’ai décidé de transformer mon chaos en portfolio)**
-Je m’appelle Cecilia. De jour, je suis **Project Manager** dans la tech. De nuit (et souvent le week-end), je suis la **Product Owner**, **Scrum Master**, et **Support L3** de deux petits humains : un bébé de 9 mois qui communique principalement en cris perçants, et un toddler de 27 mois dont le mot préféré est *"NON"* — un *stakeholder* bien plus exigeant que n’importe quel client.
+La parentalité, c’est 90% de gestion de crise et 10% de moments magiques (qui servent surtout à justifier les 90% restants). Écrire, c’est ma façon de mettre des mots sur cette vulnérabilité, et peut-être d’aider d’autres parents à se sentir moins seuls.
+Exemple : "Une régression de sommeil, c’est comme un rollback en prod : tout marchait bien, et soudain, ton bébé se réveille toutes les heures comme si son code interne avait été réécrit par un stagiaire en pleine crise existentielle. Sauf que toi, tu n’as pas de rollback plan. Juste des cernes et un stock de câlins."
 
-Cette série, **"Project Manager & Maman"**, est née de trois constats :
-1. **Je veux monter en compétences en Product Ownership** :
-   - Mon "produit" actuel, c’est ma famille. Mes *users* (mes enfants) ont des besoins imprévisibles, des *feedback loops* inexistants (ou incompréhensibles), et des *sprints* qui durent 24h/24. Si je peux gérer ça, je peux gérer n’importe quel backlog.
-   - **Exemple** : *"Mon backlog actuel :
-     - [Épic] ‘Faire dormir le bébé toute la nuit’ (en cours depuis 9 mois, *status*: *blocked*).
-     - [User Story] ‘En tant que maman, je veux que mon toddler mange ses légumes pour éviter les crises de nerfs’ (*priority*: *High*, *status*: *In Review*).
-     - [Bug] ‘Le bébé hurle dès que je prends une douche’ (*severity*: *Critical*)."*
 
-2. **J’ai besoin de dédramatiser mon quotidien** :
-   - La parentalité, c’est **90% de gestion de crise et 10% de moments magiques** (qui servent surtout à justifier les 90% restants). Écrire, c’est ma façon de rire de ce chaos, et peut-être d’aider d’autres parents à faire de même.
-   - **Exemple** : *"Une régression de sommeil, c’est comme un *rollback* en prod : tout marchait bien, et soudain, ton bébé se réveille toutes les heures comme si son code interne avait été réécrit par un stagiaire ivre."*
 
-3. **Je veux créer un portfolio qui me ressemble** :
-   - Un mélange de **récits personnels**, d’**analyses tech**, et de **templates utiles** (checklists, Kanban familiaux, etc.). Parce que si je peux documenter comment gérer un *incident* à 3h du mat’, je peux documenter n’importe quel processus.
-   - **Bonus** : *"Tous les articles seront versionnés sur [mon GitHub](lien), avec des templates à télécharger. Parce que si je dois souffrir, autant que ça serve à quelqu’un."*
+Créer un portfolio qui me ressemble :
 
----
+Un mélange de récits personnels, d’analyses tech, et de réflexions sur le retour à la carrière. Parce que si je peux documenter comment survivre à une nuit blanche, je peux documenter n’importe quel processus. Et un jour, ça servira.
 
-#### **3. Ce que vous allez trouver dans cette série (ou : le backlog de mes prochains articles)**
-Voici un aperçu des sujets à venir, écrits comme des *user stories* :
-- **"Le Kanban des couches : comment j’ai transformé mon frigo en tableau de bord Agile"**
-  *"En tant que maman, je veux toujours avoir des couches en stock pour éviter les crises à minuit, comme un *stock critique* en logistique."*
-  *(Avec un template Trello/Notion à télécharger.)*
 
-- **"Nuits InfernalOps : quand mon bébé devient l’admin sys de mes cauchemars"**
-  *"Les régressions de sommeil et les poussées dentaires, c’est du *debugging* en conditions réelles. Sans café. Avec du thé froid."*
 
-- **"Mon toddler est mon pire stakeholder (et voici comment je négocie avec lui)"**
-  *"Spoiler : les techniques de gestion de *stakeholders* difficiles fonctionnent aussi sur les enfants. Enfin, parfois."*
 
-- **"Le thé froid, symbole de mon quotidien de PM/maman"**
-  *"Pourquoi le café est une métaphore surutilisée, et comment mon thé trop infusé résume ma vie : un mélange de désespoir et de résignation, avec une pointe d’espoir que demain sera mieux."*
+3. Ce que vous allez trouver dans cette série (ou : mon backlog parental)
+Voici les sujets que je compte explorer, écrits comme des user stories :
 
-- **"Automatiser la parentalité : la CI/CD des repas et des siestes"**
-  *"Comment j’ai utilisé des *scripts* (routines), des *triggers* (alarmes), et des *backups* (doudous de secours) pour survivre."*
 
----
-#### **4. Pourquoi du thé, et pas du café ? (Ou : la métaphore qui me définit)**
-Je ne bois pas de café. Déjà, parce que j’ai deux enfants en bas âge, et que mon système nerveux n’a pas besoin de plus de stimulation. Ensuite, parce que le café, c’est **l’emblème du burnout parental** : tout le monde en parle, tout le monde en boit, et personne ne semble réaliser que c’est juste un *patch temporaire* pour un problème systémique.
+"Nuits InfernalOps : quand mon bébé devient l’admin sys de mes cauchemars"
+"En tant que maman, je veux comprendre les régressions de sommeil pour limiter les outages nocturnes (et garder un semblant de santé mentale)."
 
-Moi, je bois du thé. **Froid, la plupart du temps**, parce que je l’oublie entre une tétée et une crise de toddler. Parfois trop infusé, parfois tiède, mais toujours là, comme une **constante rassurante** dans mon chaos. Le thé, c’est ma métaphore préférée pour la parentalité :
-- **Trop infusé** ? Comme une journée où tout a dérapé.
-- **Froid** ? Comme mes espoirs de faire une sieste.
-- **Réconfortant, malgré tout** ? Comme un câlin de bébé après une crise.
 
-*(Et si vous aussi vous préférez le thé, sachez que vous êtes en bonne compagnie. Les vrais heroes ne boivent pas de café. Ils boivent du thé froid.)*
+"Le Kanban des couches : comment j’ai transformé mon placard en tableau de bord Agile"
+"Parce que même les couches méritent un stock management efficace. Surtout quand on a oublié d’en racheter à 23h."
 
----
-#### **5. Comment suivre cette aventure ?**
-- **Sur Medium** : Je publierai un nouvel article toutes les 2-3 semaines. Abonnez-vous pour ne rien rater !
-- **Sur GitHub** : [Lien vers le repo] où vous trouverez tous les templates (Kanban, checklists, etc.) et le code source des articles (parce que oui, j’ai versionné mes textes comme du code).
-- **Sur LinkedIn** : Je partagerai des extraits et des *war stories* parentales. N’hésitez pas à commenter avec vos propres anecdotes !
 
----
-#### **6. Conclusion : Et maintenant ?**
+"Gérer les siestes comme des dépendances de tâches (ou comment éviter le Blocked)"
+"Si la sieste du bébé est en retard, tout le sprint familial est impacté. Comment prioriser quand tout est urgent ?"
+
+
+"Le MVP du goûter : itérer pour trouver LA combinaison gagnante"
+"Mon toddler est mon user le plus exigeant. Aujourd’hui, il aime les compotes. Demain, il les jettera par terre. Bienvenue dans le A/B testing parental."
+
+
+"Les incidents de production : gérer les crises comme un·e pro (caca explosif, fièvre, etc.)"
+"Un incident en prod, c’est une alerte rouge. Chez moi, c’est : fièvre à 20h, caca qui fuit de la couche, ou toddler qui refuse de monter dans la poussette. Mon runbook pour survivre."
+
+
+"Automatiser la parentalité : la CI/CD des repas et des siestes"
+"Comment j’ai utilisé des scripts (routines), des triggers (alarmes), et des backups (doudous de secours) pour gagner 10 minutes de paix. Parfois."
+
+
+
+4. Pourquoi je bois du thé (et pas du café)
+Je ne bois pas de café. Déjà, parce que mon système nerveux n’a pas besoin de plus de stimulation. Ensuite, parce que le café, c’est l’emblème d’un monde qui court trop vite — un monde où je ne me reconnais plus tout à fait, pour l’instant.
+Moi, je bois du thé. Froid, la plupart du temps, parce que je l’oublie entre une tétée et une crise de toddler. Parfois trop infusé, parfois tiède, mais toujours là, comme une constante rassurante dans mon chaos. Le thé, c’est ma métaphore préférée pour cette période de ma vie :
+
+Trop infusé ? Comme ces journées où tout dérape.
+Froid ? Comme mes espoirs de faire une sieste.
+Réconfortant, malgré tout ? Comme un câlin de bébé après une crise.
+
+(Et si vous aussi vous préférez le thé, sachez que vous êtes en bonne compagnie. Les vrais heroes ne boivent pas de café. Ils boivent du thé froid et survivent quand même.)
+
+5. Comment suivre cette aventure ?
+
+Sur Medium : Un nouvel article toutes les 2-3 semaines. Abonnez-vous pour ne rien rater !
+Sur LinkedIn : Je partagerai des extraits et des war stories parentales. Vos retours et anecdotes sont les bienvenus — on est tous dans le même sprint, après tout.
+
+
+6. Conclusion : Et maintenant ?
 Si vous aussi vous avez déjà :
-- Négocié avec un toddler comme avec un *stakeholder* difficile,
-- Géré une crise de bébé comme un *incident de prod*,
-- Ou simplement rêvé de faire une sieste en paix,
+
+Pleuré en silence après une nuit blanche,
+Négocié avec un toddler comme avec un stakeholder impossible,
+Ou simplement rêvé de redevenir vous-même,
 … alors cette série est faite pour vous.
 
-**Prochain article** : *"Le Kanban des couches : comment j’ai transformé mon frigo en tableau de bord Agile"* (avec un template Trello à télécharger).
+Prochain article : "Nuits InfernalOps : quand mon bébé devient l’admin sys de mes cauchemars" (avec des métaphores on-call et une pointe de désespoir poétique).
 
----
-**CTA :**
-*"Et vous, quel est votre pire *bug* parental ? Partagez vos histoires en commentaire — on est tous dans le même sprint, après tout. 🍵"*
-
----
-
-### **Points clés de cet article :**
-1. **Style littéraire/tech** :
-   - Scènes immersives (la nuit à 3h17).
-   - Métaphores filées (bébé = admin sys, thé = symbole de résignation).
-   - Humour noir et autodérision.
-
-2. **Structure fluide** :
-   - Introduction narrative → présentation des objectifs → aperçu des articles à venir → conclusion engageante.
-
-3. **Éléments concrets** :
-   - Exemples de *backlogs* parentaux.
-   - Annonce des templates GitHub.
-   - Ton personnel (thé vs café, anecdotes).
-
-4. **Appel à l’interaction** :
-   - CTA pour partager ses propres *war stories*.
-   - Lien vers GitHub et promesses de contenu utile.
-
----
-### **Prochaines étapes :**
-1. **Relire et adapter** :
-   - Veux-tu ajouter une anecdote perso (ex : une négociation ratée avec ton toddler) ?
-   - Ou modifier le ton (plus sarcastique, plus poétique) ?
-
-2. **Préparer la publication** :
-   - Je peux t’aider à **mettre en forme sur Medium** (titres, intertitres, visuels).
-   - Ou générer une **image d’en-tête** (ex : un meme *"Parenthood: Hard Mode"*).
-
-3. **Planifier la suite** :
-   - On attaque **"Le Kanban des couches"** ensuite ? Ou un autre article ?
-
----
-**Question pour toi** :
-- **Qu’en penses-tu** ? Est-ce que ce style te correspond ?
-- **Veux-tu ajouter ou modifier** un passage en particulier ?
-- **Préfères-tu qu’on travaille sur la mise en forme Medium** ou sur le prochain article ? 😊
+CTA :
+"Et vous, quel est votre pire bug parental ? Partagez vos histoires en commentaire — parce que parfois, le simple fait de les écrire les rend moins effrayantes. 🍵"
