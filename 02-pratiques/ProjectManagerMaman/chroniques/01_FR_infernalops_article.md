@@ -37,7 +37,7 @@ Après des mois d'incidents en production, j'ai développé mes propres procédu
 ### Procédure dégradée (quand papa intervient enfin)
 Mon mari a cette capacité fascinante : il peut se traîner hors de notre lit, atterrir dans celui du bébé, et être déjà rendormi avant même que sa tête touche l'oreiller. Comme un serveur qui passe en mode hibernation instantanément. 
 
-Le problème ? Quand c'est moi qui interviens, bébé réclame automatiquement le service premium (sein inclus). Difficile de refuser l'accès quand ton utilisateur principal pleure à 3h du matin. Mais ça ne m'aide pas vraiment à implémenter mon projet de sevrage.
+Le problème ? Mon bébé me voit manifestement comme un frigo sur pattes. Quand c'est moi qui interviens, il détecte automatiquement la disponibilité du service premium et refuse catégoriquement les solutions de contournement. Papa = mode câlin basique suffisant. Maman = accès direct aux ressources alimentaires requis. Difficile de refuser l'accès quand ton utilisateur principal pleure à 3h du matin et que tu es littéralement son infrastructure critique. Mais ça ne m'aide pas vraiment à implémenter mon projet de sevrage.
 
 ### Cas critique : double incident
 Le pire scénario, c'est quand les deux systèmes tombent simultanément. Mon grand (27 mois) a un sommeil aussi fragile que le mien - un vrai legacy system sensible aux interférences. Quand il se réveille aussi (souvent à cause d'un "débordement" de couche qui a contaminé son environnement), il faut faire du triage d'urgence.
@@ -74,8 +74,8 @@ Oubliez vos dashboards Grafana. Mes vraies métriques critiques :
 
 - **MTTR** (Mean Time To Recovery) : Temps moyen pour rendormir un bébé (objectif : <20 min, réalité : ça dépend de la lune)
 - **Disponibilité sommeil** : Pourcentage de nuit sans incident (SLA actuel : 0%, et c'est optimiste)
-- **Alert fatigue** : Nombre d'interventions avant que maman.exe ne réponde plus
-- **Debt technique** : Accumulation de tâches ménagères reportées à cause des incidents nocturnes
+- **Alerte fatigue** : Nombre d'interventions avant que maman.exe ne réponde plus
+- **Dette technique** : Accumulation de tâches ménagères reportées à cause des incidents nocturnes
 
 ## 6. Post-mortem permanent
 
