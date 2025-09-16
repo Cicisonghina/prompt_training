@@ -2,7 +2,7 @@
 
 ## 1. Alerte rouge à 2h43
 
-L'incident s'est déclaré à 2h43. Pas de sirène, pas de notification Slack, juste ce cri strident qui traverse l'appartement comme un ping timeout critique. Je me redresse dans le lit, les yeux encore collés de sommeil - ou plutôt des 47 minutes que j'avais réussi à grappiller depuis le dernier réveil.
+L'incident s'est déclaré à 2h43. Pas de sirène, pas de notification Slack, juste ce cri strident qui traverse l'appartement comme un ping timeout critique. Je me redresse dans le lit, les yeux encore collés de sommeil - ou plutôt des 47 minutes que j'avais réussi à grappiller depuis le dernier réveil- et j'entends dans ma tête cette très reconnaissable musique de boss qui tient en haleine.
 
 Mon premier réflexe ? Checker mon téléphone. Aucune alerte PagerDuty sur mes anciens projets. Juste mon petit administrateur système de 9 mois qui vient d'escalader un incident P0 : "Service sommeil indisponible, intervention immédiate requise".
 
@@ -22,7 +22,7 @@ Vendredi, retour chez la pédiatre pour un post-mortem d'urgence. Verdict : "À 
 
 J'ai regardé la docteure avec cet air que tous les DevOps connaissent bien : celui qu'on a quand le client nous dit "Mais vous aviez dit que c'était réparé !" alors qu'un tout nouveau service vient de tomber.
 
-Apparemment, la crèche, c'est comme un environnement de staging mal isolé : ton code marche, mais dès qu'il entre en contact avec les autres applications, il récupère tous leurs bugs. Mon fils collectionne les virus comme des Pokémon. Et moi, je prie pour qu'il n'y ait plus de pokeball en circulation.
+Apparemment, la crèche, c'est comme un environnement de staging mal isolé : ton code marche, mais dès qu'il entre en contact avec les autres applications, il récupère tous leurs bugs. Mon fils collectionne les virus comme des Pokémon. _Gotta Catch 'Em All_. Et moi, je prie pour qu'il n'y ait plus de pokeball en circulation.
 
 ## 3. Mon runbook de survie nocturne
 
@@ -84,6 +84,8 @@ Alors que j'écris ces lignes, les petits anges dorment bien sagement depuis lon
 Pour la première fois de la journée - et probablement la seule de la nuit - j'ai les mains libres ET l'esprit disponible simultanément. Un miracle d'architecture système que je ne vais pas gâcher. Alors je me demande : est-ce que ça va un jour se stabiliser ?
 
 En tant qu'ex-Chaos Engineer, je devrais apprécier l'imprévisibilité. En théorie, ces incidents nocturnes rendent mon système familial plus résilient. En pratique, ils me rendent juste plus créative dans l'art de fonctionner avec 3h de sommeil cumulé.
+
+Finalement, un bébé qui pleure, c'est comme un utilisateur frustré qui spamme le support sans pouvoir décrire son bug. Ma mission : traduire ces cris en user stories actionnables.
 
 Mais il y a quelque chose de fascinant dans cette expérience : jamais dans ma carrière tech je n'ai eu d'utilisateurs aussi exigeants, aussi imprévisibles, et pourtant aussi... attachants. Quand ton serveur plante, tu le redémarres. Quand ton bébé pleure à 3h, tu le prends dans tes bras et tu réalises que c'est exactement là que tu veux être.
 
