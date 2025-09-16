@@ -1,0 +1,4 @@
+# Lupo, mon toddler 
+- refuse catégoriquement de prendre un bain à l'heure prévue par maman, généralement le soir après la crèche ou les heures passées au parc, alors qu'il est tout sale. par contre, demande à le prendre à n'importe quelle heure (autre) de la journée. quand c'est les parents qui remplissent c'est toujours trop froid puis trop chaud puis trop froid... alors que lui peut rester dans l'eau fraîche jusqu'à en devenir bleu !
+
+- adore faire tout comme nous. ou du moins presque. il veut aider à plier le linge par exemple. donc il prend le dernier t-shirt de la pile plié et le déplie et le met à sa place dans l'armoire. ou bien il vide la machine propre dans le bac à linge sale. ça part d'une bonne intention !
