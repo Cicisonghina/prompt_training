@@ -84,13 +84,23 @@ C'est ça, le vrai resource starvation. Dans Terraforming Mars, quand tu n'as pl
 
 La plupart du temps, je m'oublie tellement que j'ai une migraine à 17h parce que je n'ai pas bu de la journée... alors que je n'ai pas arrêté de proposer des biberons et verres d'eau à mes enfants. Resource allocation défaillante : je gère les besoins de tous mes "utilisateurs" sauf le mien.
 
-## 8. Debug permanent : parentalité et systems engineering
+## 8. Investir pour l'avenir : le Tech Tree parental
+
+Dans Terraforming Mars, tu ne dépenses pas toutes tes ressources en urgence - tu en investis une partie pour débloquer des technologies qui t'aideront plus tard. Même en mode survie parental, il faut parfois sacrifier des ressources présentes pour un gain futur.
+
+**Investissement recherche & développement :** Mon mari et moi avons beaucoup lu pour comprendre comment améliorer le sommeil de notre grand. Temps et énergie dépensés (ressources déjà rares), conclusions... limitées. Il s'endort toujours difficilement. Avec le petit, on a lâché l'affaire - et il s'endort hyper facilement. Parfois la solution, c'est de ne pas chercher de solution.
+
+**Upgrades d'équipement :** Première poussette reçue en cadeau, roues qui se bloquaient dans la boue. J'investis dans une poussette grosses roues : game changer. Puis bébé né à 5kg avec courbe exponentielle, mon dos en compote à force de portage. J'investis enfin dans une poussette double. J'aurais dû le faire bien plus tôt - optimisation du workflow quotidien immédiate.
+
+**Evolution naturelle des unités :** Quand ton enfant apprend à parler, c'est un upgrade majeur du système. Le debug devient plus facile : "J'ai mal au ventre" vs cri indéchiffrable. Quand il devient propre, tu supprimes toute la chaîne de tâches couches. Tes "unités" évoluent et demandent moins de maintenance - enfin, elles en demandent différemment.
+
+## 9. Debug permanent : parentalité et systems engineering
 
 Aujourd'hui, quand une crise éclate (enfant qui pleure sans raison apparente), j'applique mes réflexes de systems engineering : j'isole le problème, je teste différentes solutions, j'observe les metrics (cris par minute, niveau de rouge des joues).
 
 Mais parfois, le debug révèle des trucs inattendus. L'autre jour, colère épique de mon grand parce qu'il ne voulait pas mettre ses chaussures. Root cause après investigation : il voulait mettre ses chaussettes Spiderman avant ses chaussures. User story non documentée : "En tant que toddler, je veux porter Spiderman pour avoir des super-pouvoirs dans mes pieds."
 
-## 8. Resource management à vie
+## 10. Resource management à vie
 
 Ces compétences de gestion de ressources sous contrainte que je développe au quotidien, je compte bien les transférer dans ma future mission de Product Owner. Parce qu'au final, gérer une roadmap produit avec des stakeholders imprévisibles, ou gérer deux enfants avec des besoins changeants... même combat.
 

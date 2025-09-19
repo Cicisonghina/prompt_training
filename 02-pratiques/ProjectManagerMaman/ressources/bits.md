@@ -79,6 +79,12 @@ Puis c'est parti pour le petit déjeuner. Jusqu'à récemment le petit était hy
 
 
 
+- Investir du temps et de l'énergie (des ressources rares) pour apprendre une nouvelle compétence : avec mon mari (enfin surtout mon mari parce que c'est son kiff) nous avons beaucoup lu pour essayer de comprendre comment améliorer la qualité du sommeil et l'endormissement de mon grand. Bon, nous avons beaucoup lu, mais pas beaucoup conclu : c'est toujours aussi compliqué de l'endormir. Avec notre petit, nous avons laché l'affaire et il s'endort hyper facilement. C'était ça la solution!
+
+- Acheter le bon "équipement" : Quand notre premeir est né, nous avions reçu la poussette de ses cousins plus grand en cadeau. Très bien mais, les roues se bloquaient dans la boue et je passais la plupart du temps en foret. Ce n'était vraiment pas pratique. Alors nous avons investi dans une poussette aux grosses roues. Game changer ! Puis le petit est né. Je l'ai énormément porté en écharpe mais petit bébé est né avec un bon poid (5kg à la naissance) et sa courbe est exponentielle. Mon dos est en compote. Alors semaine dernière j'ai enfin décidé d'acheter une poussette double. J'aurais du le faire bien plus tôt ! Ce sont des "upgrades" qui coûtent des ressources (argent, temps de recherche) mais qui optimisent le workflow quotidien.
+
+- L'évolution de "l'unité" elle-même : Quand ton enfant apprend à parler, c'est un "upgrade" majeur du système. Le debug devient plus facile ("J'ai mal au ventre" est plus clair qu'un cri). Quand il devient propre, tu supprimes toute une chaîne de tâches liées aux couches. C'est comme si une de tes unités évoluait et n'avait plus besoin de la même maintenance.
+
 
 Voici des pistes concrètes à observer dans ton quotidien pour "Resource Management parental" :
 
