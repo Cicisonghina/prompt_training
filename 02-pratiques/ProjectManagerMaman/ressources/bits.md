@@ -51,3 +51,63 @@ Tu préfères commencer par me raconter l'histoire de Vazy, ou on fait autrement
 # Miscellanous
 
 - quand la journée commence mal : enfin une nuit presque correcte, mais... Mon toddler se réveille desespéré et... vomit partout dans son lit. On va pour le rincer dans la salle de bain mais il y a une coupure d'eau chaude et mon fils n'est évidemment pas d'accord pour se laver à l'eau froide (je comprends). C'est le seul jour où les 2 enfants sont à la crèche et où je peux avoir du temps pour moi. J'avais prévu d'aller travailler dans un café avec une amie et de déjeuner dehors... Je tente quand même de l'emmener à la crèche avec son frère. Sur le chemin, mon chien montre des difficultés à faire sa crotte. Un bouchon de caca s'est formé dans son poil et l'empêche de sortir sa selle. Bon je m'en occuperai en rentrant... Je dépose les garçons. Je rentre et au moment où j'ai les mains dans le caca et que j'essaie de couper les poils en excès, la crèche appelle pour me demander de venir chercher mon grand. 
+
+
+
+- j'ai souvent des idées de produits que j'aimerais lancer. Surtout depuis que j'ai lancé mon entreprise de bienêtre équin et que je cotoie des gens moins au contact avec la technologie ou bien dont les besoins n'ont pas encore été étudiés du point de vue tech. Par exemple, dans le métier de saddle fitter beaucoup de choses sont faites à la main par exemple on prend les mesures du cheval à chaque séance grâce à une ligne articulée ou souple que l'on reporte sur papier, on vérifie l'évolution du cheval et envoie éventuellement les mesures au sellier. Des outils type scan commencent à voir le jour. Moi, j'avais pensé à 2 outils :
+    - le premier, une application mobile qui sur photo des tracés reportés à la ligne articulée (ou bien sur la forme de la ligne) donne les mesures ainsi que les arcades de selles de différentes marques qui à priori devraient correspondre. Ceci fait gagner beaucoup de temps parce qu'on a pas besoin de sortir chaque arcade pour tester laquelle est la plus proche et laquelle on va monter en premier pour le test à cheval. Par ailleurs, souvent on possède quelques jeux complets d'arcades, mais pas toujours de toutes les marques et parfois nous n'avons pas celle de la selle du client. Cet outil permet d'emprunter ou d'acheter à des collègues uniquement les 2-3 mesures les plus probables. Par ailleurs, il permet de stocker les informations clients/cheval facilement et de les avoiir toujours sur soit sur le terrain (plutôt que de devoir chercher les papiers/cahiers de traçage)
+    - le deuxième, pour monitorer l'évolution du cheval: un scan 3D complet du cheval grâce à l'appareil photo du téléphone puis une comparaison et mise en évidence des zones qui ont évolué avec à terme la possibilité de suggérer ce qu'il s'est passé pour expliquer l'évolution (mais je pense que pour l'instant il n'existe pas encore de base d'informations suffisante pour cette étape donc autre TODO en collaboration avec des professionnels de santé équine). Le public visé : les professionnels de santé afin de voir des gonfles, déformations ou autres, les entraineurs afin de suivre l'évolution musculaire du cheval.
+Puis nous avon pensé à carhorsel en partant du constat que la plus grosse perte de temps pour les saddle fitter est la prise de rdv et l'organisation des tournées surtout en cherchant à optimiser les trajets.
+
+
+
+- les journées commencent par un pleur. Si c'est le grand, c'est plus facile. Je me lève vite (oui parce que généralement ils se reveillent avant moi), et je me dépêche de le prendre avant qu'il ne réveille son petit frère. Je le convainc qu'il vaut mieux changer la couche avant de boire son lait sinon c'est débordement assuré. Et puis c'est câlins jusqu'au réveil du petit. Si c'est le petit qui se réveille en premier, souvent c'est beaucoup trop tôt ! mais au moins lui est facile à changer et habiller. J'en profite pour me changer aussi. Puis je l'emmene dans le salon et on joue un peu ensemble en attendant son frère, qui ne tarde jamais à se réveiller aussi en n'entendant plus la respiration du petit dans la chambre. 
+Puis c'est parti pour le petit déjeuner. Jusqu'à récemment le petit était hyper facile : je lui donnais une tartine et ça l'occupait bien 15min. Mais depuis quelques jours, ça ne l'amuse plus autant et j'ai du mal à préparer le reste du petit déjeuner sans qu'il crie pour m'appeler. Alors la plupart du temps j'invente une chanson et une sorte de danse pour le distraire pendant que j'essaie de cuire des oeufs pour le plus grand qui ne les veut pas mais qui dévorera surement les miens si je ne lui en fais pas. En parallèle, mon chien réclame pour sortir. Quand enfin tout le monde a mangé, il y en a partout, les manches pourtant courtes du tshirt du petit sont toutes tachées et il en a partout sur le visage et dans les cheveux, le grand n'est pas dans un état franchement meilleur mais en plus sa couche est pleine et ne veut pas être changé et court partout, et mon chien aboie de plus en plus. Il faut vite changer ce qu'il y a à changer, on enfile les chaussures alors que tout le monde pleure et on sort ! L'air fait du bien à tout le monde. Ouf. J'étais à deux doigts de paniquer et de me mettre à pleurer aussi, mais c'est bon c'est fait ! Bon je laisse la maison dans un état proche d'un attaque à la tempête de boulettes géantes, mais ce sera un problème pour plus tard. Un plus tard qui arrivera un peu trop vite à notre retour de la balade... Mais c'est plus tard. Et puis si une bombe atomique s'est occupée de ranger mon appartement, mais que les enfants sont heureux et vont bien, c'est que tout va bien non ?
+
+- il y a des fois où je suis à bout. Dans ces moments là, c'est option coup de fil à une amie : "Tu as quoi de prévu ce matin ? Balade au parc ensemble avec les enfants ?" Bon aujourd'hui j'ai fait tout mon répertoire et... personne de disponible. Du coup, je me suis assise par terre sur le balcon avec mon bébé et j'ai espérer que ça passe. Dès que l'energie reviendra, on sortira.
+
+- la plupart du temps, je m'oublie lorsque je suis avec les enfants et à 17h j'ai une migraine parce que je n'ai pas bu alors que je n'ai pas arrêté de proposer des biberons ou des verres d'eau à mes enfants... 
+
+- l'autre jour j'étais en train de changer mon petit et j'entends un bruit de boite métallique qui tombe dans la cuisine. J'essaie de demander à mon grand ce qu'il est en train de faire et de venir me voir, mais l'activité est trop passionnante pour qu'il vienne voir sa maman. Quand je sors de la salle de bain avec bébé dans les bras, je découvre que son frère a voulu sentir tous les thés et... il y en a partout par terre... un truc en plus à nettoyer.
+
+- comment faire pour couper les ongles de mon grand ? C'est une lutte permanente mais j'ai trouvé l'astuce : il a le droit de regarder quelques minutes de Pokemon (geek en devenir) pendant que je coupe ses ongles. Bon ce n'est pas facile quand j'éteins parce qu'il aimerait continuer mais je pense qu'il a bien compris le concept.
+
+- autres négociations :
+    - avec le petit : il veut absolument attraper la cuillere pleine de purée pour faire des percussions avec. Alors je fais semblant de lui remplir et je lui laisse, pendant que j'en remplis une autre pour le faire manger.
+    - pour convaincre le grand de rester près de moi : "tu pousses la poussette de ton frère", beaucoup plus facile que de tenir la main de maman
+    - pour convaincre le petit de rester dans la poussette (et ça marchait aussi pour le premier quand il était petit) : j'enroule la laisse autour du guidon de la poussette et lui donne la poignée pour qu'il pense qu'il balade le chien tout seul. Il est ravi.
+
+
+
+
+Voici des pistes concrètes à observer dans ton quotidien pour "Resource Management parental" :
+
+**MOMENTS DE LA JOURNÉE CRITIQUES :**
+- **7h-8h** : Rush matinal - habillage 2 enfants + préparation crèche + gestion chien
+- **17h30-19h30** : Pic de charge - récupération crèche + bain + repas + coucher
+- **Weekend matin** : Gestion libre simultanée sans structure crèche
+- **Courses/sorties** : Logistique déplacement avec 2 enfants + matériel
+
+**SITUATIONS "MULTI-THREADING" :**
+- Bébé qui pleure pendant que toddler réclame de l'aide aux toilettes
+- Téléphone qui sonne pendant gestion crise (vomis/chute/colère)
+- Préparation repas vs surveillance active des 2
+- Un enfant malade + l'autre en forme = besoins opposés
+
+**RESSOURCES LIMITÉES À EXPLOITER :**
+- **Énergie** : niveau batterie qui chute, mode économie forcé
+- **Attention** : multitâches impossible, arbitrage constant  
+- **Temps** : deadline crèche, optimisation trajets
+- **Patience** : stock épuisable, temps de rechargement
+
+**PARALLÈLES RTS/GAMING :**
+- Construction de base vs raids ennemis (routine vs imprévus)
+- Gestion population vs ressources (besoins vs capacités)
+- Rush ennemi quand économie faible (crise quand fatiguée)
+
+**ANGLES HUMOUR NOIR POSSIBLES :**
+- Mode survie : quand tu passes en "patch emergency" 
+- Scaling impossible : demande qui dépasse tes capacités serveur
+- Resource starvation : quand tu manques de tout simultanément
+
+Observe ces moments dans les prochains jours - les meilleures anecdotes viendront naturellement.
