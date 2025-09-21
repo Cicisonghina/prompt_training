@@ -4,7 +4,7 @@
 
 Ce matin, 7h23, je suis en plein micro-management intensif. Mon bébé hurle pour réclamer sa tartine tout en balançant la précédente par terre, mon toddler court partout avec sa couche qui déborde en refusant catégoriquement d'être changé, et mon chien aboie de plus en plus fort pour sortir.
 
-J'invente une danse pathétique en essayant de cuire des œufs que mon grand "ne veut pas mais va sûrement dévorer si je ne lui en fais pas". Pendant ce temps, je chante une chanson improvisée pour distraire le petit qui crie dès que je ne le regarde plus. Les manches de son t-shirt pourtant courtes sont déjà toutes tachées, il en a partout dans les cheveux, et moi... moi je suis à deux doigts de paniquer et de me mettre à pleurer aussi.
+J'invente une danse pathétique en essayant de cuire des œufs que mon grand "ne veut pas" mais va sûrement dévorer s'ils ne sont pas pour lui. Pendant ce temps, je chante une chanson improvisée pour distraire le petit qui crie dès que je ne le regarde plus. Les manches de son t-shirt -pourtant courtes- sont déjà toutes tachées, il en a partout dans les cheveux, et moi... moi je suis à deux doigts de paniquer et de me mettre à pleurer aussi.
 
 Bienvenue dans mon quotidien de Resource Management parental. Ou comme j'aime l'appeler : "Terraforming Mars en mode survie avec des corporations qui ne respectent aucune règle".
 
@@ -31,7 +31,7 @@ Le matin que je décris plus haut ? C'est du multi-threading en temps réel avec
 **Thread 4** : Gestion chien stressé (peut escalader rapidement)
 **Thread 5** : Monitoring état général maman (ressources en chute libre)
 
-Dans mon ancienne vie d'ingénieur Cloud chez Ubisoft, je gérais des infrastructures avec des milliers d'utilisateurs simultanés. Mais là, avec mes deux "utilisateurs" principaux, j'ai l'impression de faire tourner un serveur de 1995 sur lequel quelqu'un aurait installé Crysis.
+Dans mon ancienne vie d'ingénieur Cloud chez Ubisoft, je gérais des infrastructures avec des milliers d'utilisateurs simultanés. Mais là, avec mes deux "utilisateurs" principaux, j'ai l'impression de faire tourner un serveur de 1995 sur lequel quelqu'un aurait installé Cyberpunk 2077.
 
 ## 4. Cascade d'incidents : le jour où tout s'effondre
 
@@ -56,17 +56,17 @@ Après des mois d'incidents de production familiale, j'ai développé quelques s
 
 **Load balancing des réveils** : Quand le grand se réveille en premier, je sprinte pour le récupérer avant qu'il ne réveille son frère. Une fois qu'ils sont debout tous les deux, mes CPU sont saturés.
 
-**Priorisation impitoyable** : Couche qui déborde = priorité P0. Tout le reste peut attendre. Même si ça veut dire que mon café refroidit et que mes œufs brûlent.
+**Priorisation impitoyable** : Couche qui déborde = priorité P0. Tout le reste peut attendre. Même si ça veut dire que mon thé refroidit et que mes œufs brûlent.
 
 **Resource pooling** : Mon mari en télétravail devient une ressource partagée. "Chéri, tu peux gérer le chien qui aboie pendant que je négocie avec notre toddler récalcitrant ?"
 
-**Caching des solutions** : Chansons inventées qui marchent, j'en fais une playlist mentale. Négociations qui fonctionnent avec le grand, je les réutilise (jusqu'à ce qu'il mette à jour ses specs comportementales). Exemple type : couper ses ongles = mission impossible, sauf si je lui propose quelques minutes de Pokémon en échange. Troc de ressources pure : mon temps d'écran contre sa coopération. Win-win jusqu'à ce qu'il réalise qu'il peut renégocier les termes du contrat.
+**Caching des solutions** : Chansons inventées qui marchent, j'en fais une playlist mentale. Négociations qui fonctionnent avec le grand, je les réutilise (jusqu'à ce qu'il mette à jour ses specs comportementales). Exemple type : couper ses ongles = mission impossible, sauf si je lui propose quelques minutes de Pokémon en échange. Troc de ressources pure : du temps d'écran contre sa coopération. Win-win jusqu'à ce qu'il réalise qu'il peut renégocier les termes du contrat.
 
 **Resource trading** : Dans Terraforming Mars, tu échanges tes ressources contre des cartes ou des actions. Ici, j'échange du contenu Pokémon contre de la compliance parentale. Le problème, c'est que mon "adversaire" apprend vite et commence à demander des bonus : "Maman, après les ongles, on peut regarder encore un peu ?"
 
-**Diversions tactiques** : Avec le petit qui veut absolument faire des percussions avec sa cuillère pleine de purée, je lui remplis une cuillère factice pendant que j'en remplis discrètement une autre pour le nourrir. Pure stratégie de diversion.
+**Diversions tactiques** : Avec le petit qui veut absolument faire des percussions avec sa cuillère pleine de purée, je feins de lui remplir une cuillère avec laquelle je le laisse jouer pendant qu'une autre est véritablement vouée à son alimentation. Pure stratégie de diversion.
 
-**Délégation créative** : Pour garder le grand près de moi sans bataille de main tenue : "Tu pousses la poussette de ton frère." Soudain, il devient co-pilote de la mission au lieu d'être un passager récalcitrant. Et pour le petit dans la poussette : laisse du chien enroulée autour du guidon, poignée dans ses mains. Il pense promener le chien tout seul. Illusion de contrôle parfaite.
+**Délégation créative** : Pour garder le grand près de moi sans bataille de main tenue : "Tu pousses la poussette de ton frère ?" Soudain, il devient co-pilote de la mission au lieu d'être un passager récalcitrant. Et pour le petit dans la poussette : laisse du chien enroulée autour du guidon, poignée dans ses mains. Il pense promener le chien tout seul. Illusion de contrôle parfaite.
 
 ## 6. Scaling impossible : la complexité qui explose
 
