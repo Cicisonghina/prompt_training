@@ -25,13 +25,13 @@ Solution Proposée : Une application où le cavalier peut trouver un professionn
 
 Fonctionnalités Clés (MVP - Minimum Viable Product) :
 
-Scheduler intelligent : Moteur central qui optimise les plannings et les trajets.
+- Scheduler intelligent : Moteur central qui optimise les plannings et les trajets.
 
-Gestion des rendez-vous : Système de demande, de validation et de rappels multi-canaux (email, notification push).
+- Gestion des rendez-vous : Système de demande, de validation et de rappels multi-canaux (email, notification push).
 
-Paiement intégré : Prise d'empreinte bancaire pour réduire les annulations et possibilité de payer la séance via l'application.
+- Paiement intégré : Prise d'empreinte bancaire pour réduire les annulations et possibilité de payer la séance via l'application.
 
-Gestion de la tournée du jour J : Page récapitulative avec redirection vers l'application GPS et fonctionnalité pour informer les clients d'un retard.
+- Gestion de la tournée du jour J : Page récapitulative avec redirection vers l'application GPS et fonctionnalité pour informer les clients d'un retard.
 
 4. Le Design & la Validation
 Maquettes (Mockups) : Des maquettes ont été conçues sur Figma dans le cadre de la recherche UX.
@@ -43,4 +43,4 @@ Modèle Économique : Un modèle par abonnement pour les professionnels. Le tari
 
 Mesures de Succès (KPI) : La mesure d'impact principale est le gain de temps pour le professionnel, estimé entre 1h18 et 1h43 par rendez-vous.
 
-Leçon Apprise : [Information non trouvée dans le document - Section à remplir après les premiers tests utilisateurs et le lancement du MVP].
+Leçon Apprise : [Section à remplir après les premiers tests utilisateurs et le lancement du MVP].
